@@ -1,0 +1,1102 @@
+[
+    {
+        "马列主义、毛泽东思想、邓小平理论": [
+            {
+                "马克思、恩格斯著作": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0101"
+            },
+            {
+                "列宁著作": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0102"
+            },
+            {
+                "斯大林著作": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0103"
+            },
+            {
+                "毛泽东著作": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0104"
+            },
+            {
+                "邓小平著作": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0105"
+            },
+            {
+                "马克思、恩格斯、列宁、斯大林、毛泽东、邓小平著作汇编": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0106"
+            },
+            {
+                "马克思、恩格斯、列宁、斯大林、毛泽东、邓小平生平和传记": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0107"
+            },
+            {
+                "马克思主义、列宁主义、毛泽东思想、邓小平理论的学习和研究": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0108"
+            }
+        ]
+    },
+    {
+        "哲学、宗教": [
+            {
+                "哲学教育与普及": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0201"
+            },
+            {
+                "哲学理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0202"
+            },
+            {
+                "世界哲学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0203"
+            },
+            {
+                "中国哲学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0204"
+            },
+            {
+                "亚洲哲学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0205"
+            },
+            {
+                "非洲哲学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0206"
+            },
+            {
+                "欧洲哲学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0207"
+            },
+            {
+                "大洋洲哲学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0208"
+            },
+            {
+                "美洲哲学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0209"
+            },
+            {
+                "思维科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0210"
+            },
+            {
+                "逻辑学(论理学)": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0211"
+            },
+            {
+                "伦理学(道德哲学)": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0212"
+            },
+            {
+                "美学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0213"
+            },
+            {
+                "心理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0214"
+            },
+            {
+                "宗教": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0215"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0231"
+            },
+            {
+                "习题、试题及题解": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0232"
+            },
+            {
+                "名词术语、词典、百科全书（类书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0233"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0234"
+            }
+        ]
+    },
+    {
+        "社会科学总论": [
+            {
+                "社会科学理论与方法论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0301"
+            },
+            {
+                "社会科学现状及发展": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0302"
+            },
+            {
+                "社会科学机构、团体、会议": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0303"
+            },
+            {
+                "社会科学研究方法": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0304"
+            },
+            {
+                "社会科学教育与普及": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0305"
+            },
+            {
+                "社会科学丛书、文集、连续性出版物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0306"
+            },
+            {
+                "社会科学参考工具书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0307"
+            },
+            {
+                "社会科学文献检索工具书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0308"
+            },
+            {
+                "统计学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0309"
+            },
+            {
+                "社会学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0310"
+            },
+            {
+                "人口学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0311"
+            },
+            {
+                "管理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0312"
+            },
+            {
+                "系统科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0313"
+            },
+            {
+                "民族学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0314"
+            },
+            {
+                "人才学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0315"
+            },
+            {
+                "劳动科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0316"
+            }
+        ]
+    },
+    {
+        "政治、法律": [
+            {
+                "政治理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0401"
+            },
+            {
+                "国际共产主义运动": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0402"
+            },
+            {
+                "中国共产党": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0403"
+            },
+            {
+                "各国共产党": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0404"
+            },
+            {
+                "工人、农民、青年、妇女运动与组织": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0405"
+            },
+            {
+                "世界政治": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0406"
+            },
+            {
+                "中国政治": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0407"
+            },
+            {
+                "各国政治": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0408"
+            },
+            {
+                "外交、国际关系": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0409"
+            },
+            {
+                "法律(D9)": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0410"
+            },
+            {
+                "法律(DF)": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0411"
+            },
+            {
+                "习题、试题及题解": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0431"
+            },
+            {
+                "教学法、教学参考书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0432"
+            }
+        ]
+    },
+    {
+        "军事": [
+            {
+                "军事理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0501"
+            },
+            {
+                "世界军事": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0502"
+            },
+            {
+                "中国军事": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0503"
+            },
+            {
+                "亚洲": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0504"
+            },
+            {
+                "战略学、战役学、战术学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0505"
+            },
+            {
+                "军事技术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0506"
+            },
+            {
+                "军事地形学、军事地理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0507"
+            },
+            {
+                "非洲": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0508"
+            },
+            {
+                "大洋州": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0509"
+            },
+            {
+                "欧洲": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0510"
+            },
+            {
+                "美洲": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0511"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0531"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0532"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0533"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0534"
+            },
+            {
+                "内部": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0540"
+            },
+            {
+                "外文": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0541"
+            }
+        ]
+    },
+    {
+        "经济": [
+            {
+                "经济学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0601"
+            },
+            {
+                "世界各国经济概况、经济史、经济地理": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0602"
+            },
+            {
+                "经济计划与管理": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0603"
+            },
+            {
+                "农业经济": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0604"
+            },
+            {
+                "工业经济": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0605"
+            },
+            {
+                "信息产业经济(总论)": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0606"
+            },
+            {
+                "交通运输经济": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0607"
+            },
+            {
+                "旅游经济": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0608"
+            },
+            {
+                "邮电经济": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0609"
+            },
+            {
+                "贸易经济": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0610"
+            },
+            {
+                "财政、金融": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0611"
+            },
+            {
+                "教学计划、教学大纲、课程": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0631"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0632"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0633"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0634"
+            },
+            {
+                "与其他学科的关系": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0635"
+            },
+            {
+                "教学法、教学参考书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0636"
+            },
+            {
+                "手册、名录、指南、一览表、年表": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0637"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0638"
+            },
+            {
+                "习题、试题及题解": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0639"
+            }
+        ]
+    },
+    {
+        "文化、科学、教育、体育": [
+            {
+                "文化理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0701"
+            },
+            {
+                "世界各国文化与文化事业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0702"
+            },
+            {
+                "信息与知识传播": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0703"
+            },
+            {
+                "科学、科学研究": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0704"
+            },
+            {
+                "教育": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0705"
+            },
+            {
+                "体育": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0706"
+            }
+        ]
+    },
+    {
+        "语言、文字": [
+            {
+                "语言学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0801"
+            },
+            {
+                "汉语": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0802"
+            },
+            {
+                "中国少数民族语言": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0803"
+            },
+            {
+                "常用外国语": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0804"
+            },
+            {
+                "汉藏语系": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0805"
+            },
+            {
+                "阿尔泰语系（突厥-蒙古-通古斯语系）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0806"
+            },
+            {
+                "南亚语系（澳斯特罗-亚细亚语系）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0807"
+            },
+            {
+                "南印语系（达罗毗荼语系、德拉维达语系）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0808"
+            },
+            {
+                "南岛语系（马来亚-玻里尼西亚语系）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0809"
+            },
+            {
+                "东北亚诸语言": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0810"
+            },
+            {
+                "乌拉尔语系（芬兰-乌戈尔语系）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0812"
+            },
+            {
+                "闪-含语系（阿非罗-亚细亚语系）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0813"
+            },
+            {
+                "印欧语系": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0814"
+            },
+            {
+                "非洲诸语言": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0815"
+            },
+            {
+                "美洲诸语言": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0816"
+            },
+            {
+                "大洋洲诸语言": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0817"
+            },
+            {
+                "国际辅助语": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0818"
+            },
+            {
+                "与其他学科的关系": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0831"
+            }
+        ]
+    },
+    {
+        "文学": [
+            {
+                "文学理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0901"
+            },
+            {
+                "世界文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0902"
+            },
+            {
+                "中国文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0903"
+            },
+            {
+                "亚洲文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0904"
+            },
+            {
+                "非洲文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0905"
+            },
+            {
+                "欧洲文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0906"
+            },
+            {
+                "大洋州文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0907"
+            },
+            {
+                "美洲文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0908"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0931"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0932"
+            },
+            {
+                "连续性出版物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0933"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0934"
+            },
+            {
+                "网络文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=0935"
+            }
+        ]
+    },
+    {
+        "艺术": [
+            {
+                "艺术理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1001"
+            },
+            {
+                "世界各国艺术概况": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1002"
+            },
+            {
+                "绘画": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1003"
+            },
+            {
+                "书法、篆刻": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1004"
+            },
+            {
+                "雕塑": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1005"
+            },
+            {
+                "摄影艺术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1006"
+            },
+            {
+                "工艺美术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1007"
+            },
+            {
+                "建筑艺术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1008"
+            },
+            {
+                "音乐": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1009"
+            },
+            {
+                "舞蹈": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1010"
+            },
+            {
+                "戏剧艺术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1011"
+            },
+            {
+                "电影、电视艺术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1012"
+            },
+            {
+                "教学法、教学参考书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1031"
+            },
+            {
+                "教材": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1032"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1033"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1034"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1035"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1036"
+            }
+        ]
+    },
+    {
+        "历史、地理": [
+            {
+                "史学理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1101"
+            },
+            {
+                "世界史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1102"
+            },
+            {
+                "中国史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1103"
+            },
+            {
+                "亚洲史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1104"
+            },
+            {
+                "非洲史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1105"
+            },
+            {
+                "欧洲史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1106"
+            },
+            {
+                "大洋洲史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1107"
+            },
+            {
+                "美洲史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1108"
+            },
+            {
+                "传记": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1109"
+            },
+            {
+                "文物考古": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1110"
+            },
+            {
+                "风俗习惯": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1111"
+            },
+            {
+                "地理": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1112"
+            },
+            {
+                "各国文物考古": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1113"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1131"
+            },
+            {
+                "教学法、教学参考书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1132"
+            }
+        ]
+    },
+    {
+        "自然科学总论": [
+            {
+                "自然科学理论与方法论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1201"
+            },
+            {
+                "自然科学现状及发展": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1202"
+            },
+            {
+                "自然科学机构、团体、会议": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1203"
+            },
+            {
+                "自然科学研究方法": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1204"
+            },
+            {
+                "自然科学教育与普及": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1205"
+            },
+            {
+                "自然科学丛书、文集、连续性出版物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1206"
+            },
+            {
+                "自然科学参考工具书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1207"
+            },
+            {
+                "自然科学文献检索工具": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1208"
+            },
+            {
+                "自然科学调查、考察": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1209"
+            },
+            {
+                "自然研究、自然历史": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1210"
+            },
+            {
+                "非线性科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1211"
+            },
+            {
+                "系统科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1212"
+            },
+            {
+                "情报学、情报工作": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1213"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1231"
+            }
+        ]
+    },
+    {
+        "数理科学和化学": [
+            {
+                "数学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1301"
+            },
+            {
+                "力学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1302"
+            },
+            {
+                "物理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1303"
+            },
+            {
+                "化学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1304"
+            },
+            {
+                "晶体学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1305"
+            }
+        ]
+    },
+    {
+        "天文学、地球科学": [
+            {
+                "天文学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1401"
+            },
+            {
+                "测绘学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1402"
+            },
+            {
+                "地球物理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1403"
+            },
+            {
+                "大气科学（气象学）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1404"
+            },
+            {
+                "地质学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1405"
+            },
+            {
+                "海洋学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1406"
+            },
+            {
+                "自然地理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1407"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1431"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1432"
+            }
+        ]
+    },
+    {
+        "生物科学": [
+            {
+                "生物科学的理论与方法": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1501"
+            },
+            {
+                "生物科学现状与发展": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1502"
+            },
+            {
+                "生物科学的研究方法与技术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1503"
+            },
+            {
+                "生物科学教育与普及": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1504"
+            },
+            {
+                "生物资源调查": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1505"
+            },
+            {
+                "普通生物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1506"
+            },
+            {
+                "细胞生物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1507"
+            },
+            {
+                "遗传学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1508"
+            },
+            {
+                "生理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1509"
+            },
+            {
+                "生物化学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1510"
+            },
+            {
+                "生物物理学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1511"
+            },
+            {
+                "分子生物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1512"
+            },
+            {
+                "生物工程学(生物技术)": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1513"
+            },
+            {
+                "环境生物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1514"
+            },
+            {
+                "古生物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1515"
+            },
+            {
+                "微生物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1516"
+            },
+            {
+                "植物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1517"
+            },
+            {
+                "动物学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1518"
+            },
+            {
+                "昆虫学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1519"
+            },
+            {
+                "人类学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1520"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1531"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1532"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1533"
+            }
+        ]
+    },
+    {
+        "医药、卫生": [
+            {
+                "一般理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1601"
+            },
+            {
+                "现状与发展": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1602"
+            },
+            {
+                "医学研究方法": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1603"
+            },
+            {
+                "预防医学、卫生学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1604"
+            },
+            {
+                "中国医学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1605"
+            },
+            {
+                "基础医学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1606"
+            },
+            {
+                "临床医学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1607"
+            },
+            {
+                "内科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1608"
+            },
+            {
+                "外科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1609"
+            },
+            {
+                "妇产科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1610"
+            },
+            {
+                "儿科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1611"
+            },
+            {
+                "肿瘤学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1612"
+            },
+            {
+                "神经病学与精神病学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1613"
+            },
+            {
+                "皮肤病学与性病学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1614"
+            },
+            {
+                "耳鼻咽喉科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1615"
+            },
+            {
+                "眼科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1616"
+            },
+            {
+                "口腔科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1617"
+            },
+            {
+                "外国民族医学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1618"
+            },
+            {
+                "特种医学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1619"
+            },
+            {
+                "药学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1620"
+            },
+            {
+                "教学法、教学参考书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1631"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1632"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1633"
+            },
+            {
+                "年鉴、年刊": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1634"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1635"
+            },
+            {
+                "方法论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1636"
+            },
+            {
+                "手册、名录、指南、一览表、年表": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1637"
+            },
+            {
+                "连续性出版物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1638"
+            },
+            {
+                "习题、试题及题解": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1639"
+            },
+            {
+                "教材": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1640"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1641"
+            },
+            {
+                "教学计划、教学大纲、课程": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1642"
+            }
+        ]
+    },
+    {
+        "农业科学": [
+            {
+                "一般性理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1701"
+            },
+            {
+                "农业科学技术现状与发展": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1702"
+            },
+            {
+                "农业科学研究、试验": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1703"
+            },
+            {
+                "农业基础科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1705"
+            },
+            {
+                "农业工程": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1706"
+            },
+            {
+                "农学（农艺学）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1707"
+            },
+            {
+                "植物保护": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1708"
+            },
+            {
+                "农作物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1709"
+            },
+            {
+                "园艺": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1710"
+            },
+            {
+                "林业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1711"
+            },
+            {
+                "畜牧、动物医学、狩猎、蚕、蜂": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1712"
+            },
+            {
+                "水产、渔业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1713"
+            },
+            {
+                "教材": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1731"
+            },
+            {
+                "条例、规程、标准": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1732"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1733"
+            },
+            {
+                "试验方法与试验设备": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1734"
+            },
+            {
+                "展览会、展览馆、博物馆": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1735"
+            },
+            {
+                "教学法、教学参考书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1736"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1737"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1738"
+            },
+            {
+                "习题、试题及题解": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1739"
+            },
+            {
+                "手册、名录、指南、一览表、年表": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1740"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1741"
+            }
+        ]
+    },
+    {
+        "工业技术": [
+            {
+                "工业技术理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1801"
+            },
+            {
+                "工业技术现状与发展": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1802"
+            },
+            {
+                "机构、团体、会议": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1803"
+            },
+            {
+                "参考工具书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1804"
+            },
+            {
+                "一般工业技术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1806"
+            },
+            {
+                "矿业工程": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1807"
+            },
+            {
+                "石油、天然气工业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1808"
+            },
+            {
+                "冶金工业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1809"
+            },
+            {
+                "金属学与金属工艺": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1810"
+            },
+            {
+                "机械、仪表工业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1811"
+            },
+            {
+                "武器工业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1812"
+            },
+            {
+                "能源与动力工程": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1813"
+            },
+            {
+                "原子能技术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1814"
+            },
+            {
+                "电工技术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1815"
+            },
+            {
+                "无线电电子学、电信技术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1816"
+            },
+            {
+                "自动化技术、计算机技术": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1817"
+            },
+            {
+                "化学工业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1818"
+            },
+            {
+                "轻工业、手工业": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1819"
+            },
+            {
+                "建筑科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1820"
+            },
+            {
+                "水利工程": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1821"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1831"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1832"
+            },
+            {
+                "展览会、展览馆、博物馆": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1833"
+            }
+        ]
+    },
+    {
+        "交通运输": [
+            {
+                "综合运输": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1902"
+            },
+            {
+                "铁路运输": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1903"
+            },
+            {
+                "公路运输": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1904"
+            },
+            {
+                "水路运输": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1905"
+            },
+            {
+                "航空运输": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1906"
+            },
+            {
+                "条例、规程、标准": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1931"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=1932"
+            }
+        ]
+    },
+    {
+        "航空、航天": [
+            {
+                "航空、航天技术的研究与探索": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2001"
+            },
+            {
+                "航空": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2002"
+            },
+            {
+                "航天（宇宙航行）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2003"
+            },
+            {
+                "航空、航天医学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2004"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2031"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2032"
+            }
+        ]
+    },
+    {
+        "环境科学、安全科学": [
+            {
+                "环境科学理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2101"
+            },
+            {
+                "环境科学技术现状与发展": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2102"
+            },
+            {
+                "环境保护宣传教育及普及": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2103"
+            },
+            {
+                "环境保护参考工具书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2104"
+            },
+            {
+                "环境科学基础理论": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2105"
+            },
+            {
+                "社会与环境": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2106"
+            },
+            {
+                "环境保护管理": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2107"
+            },
+            {
+                "灾害及其防治": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2108"
+            },
+            {
+                "环境污染及其防治": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2109"
+            },
+            {
+                "废物处理与综合利用": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2110"
+            },
+            {
+                "环境质量评价与环境监测": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2111"
+            },
+            {
+                "安全科学": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2112"
+            },
+            {
+                "论文集": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2131"
+            },
+            {
+                "教材": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2132"
+            },
+            {
+                "手册、名录、指南、一览表、年表": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2133"
+            },
+            {
+                "名词术语、词典、百科全书（类书）": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2134"
+            },
+            {
+                "普及读物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2135"
+            },
+            {
+                "丛书（汇刻书）、文库": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2136"
+            }
+        ]
+    },
+    {
+        "综合性文献": [
+            {
+                "丛书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2201"
+            },
+            {
+                "百科全书、类书": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2202"
+            },
+            {
+                "辞典": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2203"
+            },
+            {
+                "论文集、全集、选集、杂著": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2204"
+            },
+            {
+                "年鉴、年刊": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2205"
+            },
+            {
+                "期刊、连续性出版物": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2206"
+            },
+            {
+                "文献目录、文摘、索引": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2207"
+            },
+            {
+                "港台": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=2208"
+            }
+        ]
+    },
+    {
+        "古籍": [
+            {
+                "丛部": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=9001"
+            },
+            {
+                "集部": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=9002"
+            },
+            {
+                "经部": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=9003"
+            },
+            {
+                "史部": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=9004"
+            },
+            {
+                "子部": "http://book.ly.superlib.net/book.do?go=guidesearch&flid=9005"
+            }
+        ]
+    }
+]
